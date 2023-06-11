@@ -10,30 +10,29 @@ assignment may, for the purpose of assessing this assignment:
 
 ## Course Information
 
-### Course Name: _Computer and Network Security_
-### Course Number: _SEC-260_
-### Professor: _Joseph Letourneau_
+### Course Name: _Network Fundamentals_
+### Course Number: _NET-150_
+### Professor: _Jason Reeves_
 ### Semester: _Spring 2021_
 ### Student Name: _David Thomsen_
 
 ## REPO Description
 
-This course repository provides the work completed and assignments given during _Computer and Network Security_, taught by Professor Letourneau. It includes essential information about the course, such as its description, objectives, and required materials. Please read through this document to familiarize yourself with the course content and expectations.
+This course repository provides the work completed and assignments given during _Network Fundamentals_, taught by Professor Reeves. It includes essential information about the course, such as its description, objectives, and required materials. Please read through this document to familiarize yourself with the course content and expectations.
 
 ## Course Description
 
-This course provides an introduction to computer and data network security. Students will examine the rationale and necessity for securing computer systems and data networks, as well as methodologies for implementing security, security policies, best current practices, testing security, and incident response.
-
+Students will be introduced to networking technology and the integral part it plays in business and society. Organizations expect the communication in information systems will be reliable, effective, and secure. Topics include network protocols, services, and topologies, information security, high-speed LAN/WAN topologies, client-server technology, security vulnerabilities, network troubleshooting 
 
 ## CLOs
 
 **Upon completion of this course the student will be able to:** 
 
-- Understand the basics of hardening servers, hosts and networks
-- Comprehend various system, network and data threats and risks
-- Understand common vulnerabilities, attack patterns and defenses
-- Explore cryptography and Public Key Infrastructure fundamentals
-- Demonstrate how to detect and reduce threats in Web security
-- Evaluate access control frameworks 
-- Perform a vulnerability assessment
-- Explore technical and process compensating controls
+Students will gain factual, conceptual, and applied knowledge regarding:
+- network communications
+- security
+- technology evolution
+- infrastructure components
+- management functions
+- business processes
+- design issues.
